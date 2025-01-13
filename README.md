@@ -1,6 +1,9 @@
 # HFSS-Analysis-Reminder
 Notify HFSS developers that the simulation is complete through both email and desktop pop-up reminders.
-
+![image](https://github.com/user-attachments/assets/3947d9b4-af41-49cd-b0a4-5a963b48d35b)
+window alert
+![image](https://github.com/user-attachments/assets/2a43fa42-5f11-4d34-a2d4-a761cf89511c)
+ mail notify on my phone
 # what you need
 - install python on your PC
 - a mail support smpt （most mail support this indeed,but you should make sure it had been allowed on your account）
@@ -18,3 +21,7 @@ Modify some key parameters.
  ## run this script before click analysis in HFSS,once you start analysis ,this script can detect it,and when analysis finished,this script will trick up a window on your PC to remind you,also send mail to you.
 ---
 ## by the way ,if you dont need mail notify,You can comment out the line that “send_mail()”😒
+
+
+
+
