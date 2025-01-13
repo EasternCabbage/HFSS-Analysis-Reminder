@@ -18,6 +18,9 @@ Modify some key parameters.
 - smtp_port = 465  # QQ 邮箱 SMTP 使用的是 465 端口
 - smtp_user = sender_email
 - smtp_password = "***************"  # 这里填写你的授权码
+ 
+- file_path = 'D:/Ansoft22Project/WaveGuideFilter.aedt' //project file location
+- directory_path = 'D:/Ansoft22Project/WaveGuideFilter.aedtresults/filter.results'//path folder to save analysis result
 ---
  ## run this script before click analysis in HFSS,once you start analysis ,this script can detect it,and when analysis finished,this script will trick up a window on your PC to remind you,also send mail to you.
 ---
