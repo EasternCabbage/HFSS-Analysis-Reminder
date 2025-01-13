@@ -2,7 +2,8 @@
 Notify HFSS developers that the simulation is complete through both email and desktop pop-up reminders.
 ![image](https://github.com/user-attachments/assets/3947d9b4-af41-49cd-b0a4-5a963b48d35b)
 window alert
-![image](https://github.com/user-attachments/assets/2a43fa42-5f11-4d34-a2d4-a761cf89511c)
+![image](https://github.com/user-attachments/assets/f85e35f2-a70e-4000-b479-cbf959d8724d)
+
  mail notify on my phone
 # what you need
 - install python on your PC
